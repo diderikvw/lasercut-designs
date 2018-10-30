@@ -13,5 +13,12 @@ Try 2:
 - Load in RDWorks
 - Same wood, same laser settings
 
+Try 3:
+- lamp-shade-tryout-1.svg
+- Used Inkscape tile function: Menu Edit => Clone => Create tiled clones, see https://design.tutsplus.com/tutorials/repeating-patterns-made-easy-in-inkscape--cms-20284
+- Create an object of 1 single repeating pattern
+- Tiling: 80cm wide, 8cm high
+- Same wood and laser settings
+
 
 
